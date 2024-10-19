@@ -176,3 +176,9 @@ tags
 
 # wandb
 wandb
+
+examples/controlnet/prepare_data/audios/*
+examples/controlnet/prepare_data/images/*
+*.png 
+*.jpg
+*.jpeg
