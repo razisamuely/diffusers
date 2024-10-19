@@ -9,3 +9,5 @@ Pillow
 matplotlib
 torchaudio
 speechbrain
+mediapipe
+opencv-python
